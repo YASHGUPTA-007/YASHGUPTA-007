@@ -1,15 +1,15 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Yash Gupta</h1>
+<h1 align="center">Hey 👋, I'm Yash Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt"coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta-007&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta-007" /> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **HTML,CSS & JS**
+- 💬 Ask me about **React,Nextjs etc**
 
 - 📫 How to reach me **yash.gupta.11.7.2004@gmail.com**
 
