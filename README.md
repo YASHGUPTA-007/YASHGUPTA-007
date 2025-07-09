@@ -8,17 +8,22 @@
 ![Open to Collabs](https://img.shields.io/badge/Open%20to-Collaboration-6f42c1?style=for-the-badge)
 
 
-![Terminal Animation](https://asciinema.org/a/123456.svg)
+<p align="center">
+  <a href="https://asciinema.org/a/8" target="_blank">
+    <img src="https://asciinema.org/a/8.svg" alt="asciicast" />
+  </a>
+</p>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=YASHGUPTA-007&theme=react-dark&area=true" />
-<img src="https://yourdomain.com/wave-loader.svg" />
+
+
 
 
 
 
 
 # 💫 About Me:
-<br>🔭 Currently building:  <br>MERN Auth System & AI tools with a jugaadu approach 💡<br>🤝 Open to:  <br>Full-stack collabs, clean UI/UX, and AI-driven projects<br>🙋‍♂️ Need help with:  <br>Scalable backend and production deployments<br>🌱 Learning:  <br>TypeScript, DevOps basics & system design<br>💬 Ask me about:  <br>MERN stack, Clerk.js, Zustand, TailwindCSS<br>⚡ Fun fact:  <br>I mix jugaadu hacks with clean code. Also into Video editing & self-growth!<br>
+Resourceful B.Tech Computer Science student with a builder’s mindset and a “jugaadu” approach to
+problem-solving. Passionate about turning ideas into outcomes, I thrive on learning, adapting, and finding smart ways to overcome challenges and get things done
 
 
 ## 🌐 Socials:
