@@ -3,16 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Turning+ideas+into+code.;Learning+and+growing+daily.;Writing+clean%2C+creative+code.;Solving+problems+with+jugaadu." alt="Typing SVG" />
 </p>
-
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-blueviolet?style=for-the-badge&logo=mongodb)
-![Open to Collabs](https://img.shields.io/badge/Open%20to-Collaboration-6f42c1?style=for-the-badge)
-
-
 <p align="center">
-  <a href="https://asciinema.org/a/8" target="_blank">
-    <img src="https://asciinema.org/a/8.svg" alt="asciicast" />
-  </a>
+  <img src="https://img.shields.io/badge/MERN-Stack-blueviolet?style=for-the-badge&logo=mongodb" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/Open%20to-Collabs-6f42c1?style=for-the-badge" alt="Open to Collabs" />
 </p>
+
+
+
 
 
 
