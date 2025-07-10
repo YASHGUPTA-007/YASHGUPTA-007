@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Turning+ideas+into+code.;Learning+and+growing+daily.;Writing+clean%2C+creative+code.;Solving+problems+with+jugaadu." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=28&pause=1000&color=6f21ff&center=true&vCenter=true&width=435&lines=Turning+ideas+into+code.;Learning+and+growing+daily.;Writing+clean%2C+creative+code.;Solving+problems+with+jugaadu." alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-blueviolet?style=for-the-badge&logo=mongodb" alt="MERN Stack" />
   <img src="https://img.shields.io/badge/Open%20to-Collabs-6f42c1?style=for-the-badge" alt="Open to Collabs" />
