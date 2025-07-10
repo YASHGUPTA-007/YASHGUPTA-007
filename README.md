@@ -8,6 +8,13 @@
   <img src="https://img.shields.io/badge/Open%20to-Collabs-6f42c1?style=for-the-badge" alt="Open to Collabs" />
 </p>
 
+## 📊 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> 🕒 Updated daily using [WakaTime](https://wakatime.com) and GitHub Actions  
+> ⌛ Tracks time automatically as you code in VS Code!
 
 
 
