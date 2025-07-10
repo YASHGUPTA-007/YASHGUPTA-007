@@ -100,8 +100,6 @@ problem-solving. Passionate about turning ideas into outcomes, I thrive on learn
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 
-
-# 📊 GitHub Stats:
 ## 📊 GitHub Stats:
 
 <table>
