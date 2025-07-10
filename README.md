@@ -11,6 +11,11 @@
 ## 📊 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 > 🕒 Updated daily using [WakaTime](https://wakatime.com) and GitHub Actions  
