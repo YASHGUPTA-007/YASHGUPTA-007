@@ -28,7 +28,7 @@ Other        8 mins          ▓░░░░░░░░░░░░░░░░
 
 # 💫 About Me:
 Resourceful B.Tech Computer Science student with a builder’s mindset and a “jugaadu” approach to
-problem-solving. Passionate about turning ideas into outcomes, I thrive on learning, adapting, and finding smart ways to overcome challenges and get things done
+problem-solving. Passionate about turning ideas into outcomes, I thrive on learning, adapting, and finding smart ways to overcome challenges and get things done 🧿 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-gupta-code007) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yash_gupta_007_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yash.gupta11.7.2004@gmail.com) 
