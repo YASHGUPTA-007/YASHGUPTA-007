@@ -27,7 +27,7 @@ Other        8 mins          ▓░░░░░░░░░░░░░░░░
 > ⌛ Tracks time automatically as you code in VS Code!
 
 # 💫 About Me:
-Resourceful B.Tech Computer Science student with a builder’s mindset and a “jugaadu” approach to
+Resourceful B.Tech Computer Science student with a builder's mindset and a "jugaadu" approach to
 problem-solving. Passionate about turning ideas into outcomes, I thrive on learning, adapting, and finding smart ways to overcome challenges and get things done 🧿 
 
 ## 🌐 Socials:
@@ -78,6 +78,7 @@ problem-solving. Passionate about turning ideas into outcomes, I thrive on learn
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-2A2A2A?style=flat-square&logo=convex&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 
 ---
 
@@ -86,6 +87,7 @@ problem-solving. Passionate about turning ideas into outcomes, I thrive on learn
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Lemon Squeezy](https://img.shields.io/badge/Lemon%20Squeezy-ffda79?style=flat-square&logoColor=black)
 
 ---
@@ -100,7 +102,7 @@ problem-solving. Passionate about turning ideas into outcomes, I thrive on learn
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YASHGUPTA-007&theme=aura&hide_border=false&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=YASHGUPTA-007&theme=aura&hide_border=false&include_all_commits=true&count_private=true&include_orgs=true" />
     </td>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=YASHGUPTA-007&theme=aura&hide_border=false" />
