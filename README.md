@@ -102,7 +102,7 @@ problem-solving. Passionate about turning ideas into outcomes, I thrive on learn
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YASHGUPTA-007&theme=aura&hide_border=false&include_all_commits=true&count_private=true&include_orgs=true" />
+      <img src="https://github-readme-stats-mu-gold-18.vercel.app/api?username=YASHGUPTA-007&theme=aura&hide_border=false&include_all_commits=true&count_private=true&include_orgs=true" />
     </td>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=YASHGUPTA-007&theme=aura&hide_border=false" />
@@ -110,7 +110,7 @@ problem-solving. Passionate about turning ideas into outcomes, I thrive on learn
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHGUPTA-007&theme=aura&hide_border=false&layout=compact" />
+      <img src="https://github-readme-stats-mu-gold-18.vercel.app/api/top-langs/?username=YASHGUPTA-007&theme=aura&hide_border=false&layout=compact" />
     </td>
   </tr>
 </table>
